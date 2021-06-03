@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ignoramus found upon the last article of The humble presentment and desires of the grand-Jury of the county of Devon, at the assizes held at Exon, xxvi March MDCLXI</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46052</idno><idno type="EEBO-CITATION">13065034</idno>
+  <idno type="VID">97037</idno>
+  <idno type="EEBO-PROQUEST">2240857803</idno>
+  
+            <idno type="STC">Wing I43A</idno>
+            <idno type="STC">ESTC R387</idno>
+            <idno type="OCLC">13065034</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ignoramus found upon the last article of The humble presentment and desires of the grand-Jury of the county of Devon, at the assizes held at Exon, xxvi March MDCLXI</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Devon (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97037:1"/>
+            <pb facs="tcp:97037:1"/>
+            <p>An Ignoramus Found upon the last ARTICLE OF The Humble Presentment and De<g ref="char:EOLhyphen"/>sires of the Grand-Iury of the County of DEVON, At the Assizes held at <hi>EXON,</hi> XXVI <hi>March</hi> MDCLXI.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 101.8.</hi>
+               </bibl>
+               <p>Tota die exprobrabant mihi inimici mei, &amp; qui laudabant me, adversum me jurabant.</p>
+            </q>
+            <p>Printed in the Year, 1661,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:97037:2"/>
+            <head>The last Article of the Humble Presentment, and Desires of the Grand Jury of the County of <hi>Devon,</hi> at the Assizes held at <hi>Exon,</hi> 26. <hi>March,</hi> 1661.</head>
+            <head type="sub">That the Laws may be put in Execution against Popish Recu<g ref="char:EOLhyphen"/>sants, who, with the Sectaries, are the most pernicious Enemies, and subtil Underminers of our Religion, and by whom we believe our late unnatural wars were industriously Fomented and Maintained.</head>
+            <p>AND is it possible? were the Fomenters of the late unnatural War <hi>Popish Recusants?</hi> then let a <hi>Bedlam</hi> be immediately built in every County, and the <hi>Popish Recusants</hi> all put in it; for none but Madmen cut their own Flesh, and burn their Clothes, and strike their Friends: Yet all this, and far worse than all this are the <hi>Popish Recusants</hi> guilty of, if the <hi>Devonshire Jury</hi> say true. O that no more Inditements upon the pure score of Religion might be admitted, ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l this grand Ar<g ref="char:EOLhyphen"/>ticle of Treason were proved against them! Unhappy they, who after all their Constancy both in Religion and Loyalty, during the whole course of these late miseries, can obtain among some no milder a name than pernicious Enemies, and industrious Fo<g ref="char:EOLhyphen"/>mentors of so unnatural a War! But to the <hi>Presentment</hi> it self.</p>
+            <p>One Art I observe the Jury uses in their penning this Clause; (I believe they take not themselves bound in such a paper as this to speak the whole truth;) they say <hi>the late Wars were industri<g ref="char:EOLhyphen"/>ously maintain'd by the Papists,</hi> but do not say, which side the <hi>Papists</hi> took; let's seek out their meaning; if it be, that the <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> industriously maintain'd the Kings Party; surely, the Loyal of <hi>Devonshire</hi> will not count That a Crime; if, that the Papists in<g ref="char:EOLhyphen"/>dustriously maintain'd the War against the King, surely, the un<g ref="char:EOLhyphen"/>passionate of <hi>Devonshire</hi> will not count That a truth. If they mean neither of these, but only that the <hi>Papists</hi> Fomented the War without caring which party prevail'd; then again, to <hi>Bedlam</hi> with them all; does any one wish for a Storm, that's sure to be the first man thrown over-Board?</p>
+            <p>Of these three Senses, and these are all I can make, The first is so kind to <hi>Papists,</hi> that I believe I may safely presume it was
+<pb n="3" facs="tcp:97037:2"/>not intended: The last so Extravagantly wild, that none but Madmen can possibly be suspected of it: The second then, which neither justifies the Papists for Loyalty, nor condemns them for Folly, but accuses them as Maintainers of the late War against their King and Country, remains to be the only intended Sense of the Jurye's <hi>Presentment.</hi>
+            </p>
+            <p>And though both in Justice and reason, it appertains to the Ac<g ref="char:EOLhyphen"/>cuser to prove his Charge, yet I am content to waive that at this time, not doubting to give such Evidence of the injustice of this Accusation, as will remove all Scruples out of honest mens heads, and stop the mouths of malicious Enemies.</p>
+            <p>It is notoriously known to the whole Nation, that the <hi>Catho<g ref="char:EOLhyphen"/>licks</hi> generally adhered to his late Majesty of Happy Memory, and defended his Person and Cause to their utmost power, for which many of them lost their Estates, and not a few their lives, as you may see them particularly named in a Catalogue printed in <hi>Calendarium Catholicum.</hi>
+            </p>
+            <p>There can be no better witnesse of this truth, than the late King himself, who, having had experience of their fidelity in his greatest Straights, speaks thus of them in his excellent Meditations, <hi>I am sorry the Papists should have a greater Sense of their Allegiance than many Protestant Professors, who seem to have learn'd the worst Principles of the worst Papists;</hi> with more to this purpose, which I hope all good Subjects will credit, coming from so Royal a Testimony.</p>
+            <p>And <hi>his Majesty</hi> (under whom we now are happy) thus Graci<g ref="char:EOLhyphen"/>ously and Elegantly expresses the deportment of Catholicks to<g ref="char:EOLhyphen"/>wards Him (in his Letter to the House of Commons from <hi>Breda</hi>) <hi>We have by Our constant Profession and Practice of the Protestant Re<g ref="char:EOLhyphen"/>ligion, given sufficient Testimony to the World, that neither the un<g ref="char:EOLhyphen"/>kindnesse of those of the same Faith towards Us, nor the Civilities and Obligations from those of a contrary Profession (of both which We have had abundant Evidence) could in the least degree startle Us, or make Us Swerve from it.</hi> And in his Declaration for settlement of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> thus, <hi>We acknowledge that Our good Subjects in that Kingdom</hi> (of which the Caholticks are known to be no small po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion) <hi>have born a very good part in procuring this happiness, that they were early in their Dutiful Addresses to Us, &amp; made the same professions of a resolu<g ref="char:EOLhyphen"/>tion to return to their Duty &amp; Obedience to Us, during the time of Our being beyond the Seas, which they have since so eminently made good,
+<pb n="4" facs="tcp:97037:3"/>and put in practice.— And in the last place We did and must alway<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> remember the great Affection, a considerable part of that Nation ex<g ref="char:EOLhyphen"/>prest to Us, during the time of our being beyond the Seas, when with all Cheerfulnesse and Obedience they received and submitted to Our Or<g ref="char:EOLhyphen"/>ders, and betook themselves to that Service which we directed.</hi>
+            </p>
+            <p>Thus graciously is His <hi>Sacred Majesty</hi> pleas'd to remember those Faithful Services of His Subjects▪ which yet were no more than what the Laws both of God and Man requir'd at their hands.</p>
+            <p>Observe next what our Enemies have said.</p>
+            <p>Mr. <hi>Nedham</hi> (a person of credit among the late Rebels) often affirms in his <hi>Interest will not lye; That the Papists generally adhered to the late King, and that its only their interest to bring in his Son, who laboured so much to keep up the Father.</hi>
+            </p>
+            <p>The <hi>Diurnal</hi> which came out <hi>Monday</hi> 15 <hi>Sept.</hi> 1651. <hi>p.</hi> 192. gives you a Letter from <hi>Worcester,</hi> which says thus;</p>
+            <p>
+               <hi>We are securing the Persons and Estates of those who adhered to the Scotish King</hi> (meaning his Sacred Majesty that now is) <hi>most of which are Papists of this Country</hi> —</p>
+            <p>And for more abundant satisfaction, the <hi>Catholicks</hi> can (with<g ref="char:EOLhyphen"/>out vanity) say two things for themselves, that no other Professi<g ref="char:EOLhyphen"/>on in <hi>England</hi> can pretend to, which are, <hi>That no Person of Honor or Estate among them ever bore Arms against the King during the whole War;</hi> But on the contrary, <hi>there was hardly any of them, so qualified, that did not assist His late Majesty, either with person, or purse, and most of them with both.</hi>
+            </p>
+            <p>This then being a truth so clear and palpable, attested both by <hi>His Majesty</hi> Himself, and His Royal Father, known by all true Subjects, and acknowledged by open Enemies; who would think any, unlesse stark blind with passion, would question it? And yet our grave <hi>Grand-Jury of Devon</hi> (drawn in by a pretty subtile Artifice) not only deny it, but ground their Request, <hi>that the Laws may be put in Execution against Popish Recusants,</hi> upon this false Supposition, <hi>that they were the maintainers of the late unnatu<g ref="char:EOLhyphen"/>ral Wars.</hi>
+            </p>
+            <p>Neither reflecting upon His Majesties Gracious Declaration from <hi>Breda,</hi> (seconded and confirmed by that concerning Ecclesi<g ref="char:EOLhyphen"/>astical affairs) in both which He expresly Declares, <hi>a Liberty to tender Consciences, and that no man shall be disquieted or call'd in question for differences of Opinion in matters of Religion, which do not disturb the peace of the Kingdom.</hi> Nor considering that the Causes
+<pb n="5" facs="tcp:97037:3"/>of imposing penalties upon <hi>Catholicks</hi> are now wholly ceased; since there is neither any Catholick Competitor for the Crown, nor any such detestable Conspiracy as some, and those very few of their Religion, have been formally guilty of; But on the contrary they have upon all occasions, during the late War, and since, approv'd themselves most faithful Subjects, So that there remains, no other charge, but that of Conscience to exclude them from the full en<g ref="char:EOLhyphen"/>joyment of the Privileges of their Native Country.</p>
+            <p>And here let me propose one question to the Presenters of these Articles;</p>
+            <p>
+               <hi>You Gentlemen of the Jury!</hi> do you know what you ask, when you desire the Execution of the Laws against <hi>Recusants?</hi> Is it only that they be discountenanc'd, think you, or debat'd from Of<g ref="char:EOLhyphen"/>fices of Trust and Profit in the Common-wealth? no such matter. You ask that their Estates should be Sequestred, and their Bodies Imprison'd, nay their very Blood spilt, and their Lives taken a<g ref="char:EOLhyphen"/>way; For your selves cannot be ignorant, that; were the Laws put in Execution, there's not a <hi>Catholick</hi> in <hi>England,</hi> but may be Hang'd, Drawn, and Quarter'd in a short time, 'tis but the se<g ref="char:EOLhyphen"/>cond refusal of the Oath of <hi>Supremacy,</hi> and the work's done. Un<g ref="char:EOLhyphen"/>reasonable men! <hi>Cromwel</hi> himself (who justly Consider'd them, as his particular enemies) was for the most part content with their Estates; whereas you, who cannot but know their constant Loyalty, during all the late troubles, demand no lesse, than to hang them all for Traytors; If you would hear my Counsel, I should rather advise, you would indite some of them for being in Armes against the King, and all you find guilty, hang without mercy; only let the Innocent dwell quietly among you; Refuse them, if you will, the benefit of the Act of Oblivion; deny them the privelege of suing out their Pardons (a bold offer, unless they be very confident of their Innocence) only Condemn them not without a Crime, nor suppose 'em Criminal without proof.</p>
+            <p>Besides those general Attestations express'd in Words, do but consider the strong evidence of Deeds, and you will easily see the <hi>Popish Recusants</hi> (as you call them) were not <hi>Pernicious ene<g ref="char:EOLhyphen"/>mies,</hi> nor <hi>Maintainers of the unnatural War</hi> against their late Sove<g ref="char:EOLhyphen"/>raign, who was so far from distrusting their Allegiance, that he put some of them into places of greatest trust; So far from re<g ref="char:EOLhyphen"/>ceiving Opposition from them, that some of the most remark<g ref="char:EOLhyphen"/>able Services have been done by them.</p>
+            <pb n="6" facs="tcp:97037:4"/>
+            <p>Was not Sr. <hi>Henry Gage</hi> Governour of <hi>Oxford</hi> (the Place of <hi>his Majesties</hi> own residence) till he was slain at <hi>Cullomb Bridge;</hi> and Sr. <hi>Arthur Ashton,</hi> Governour of <hi>Reading</hi> (then a frontier Garrison) who was afterwards put to the Sword by <hi>Cromwel</hi> at <hi>Tredaugh?</hi> Did not Sr. <hi>John Smith</hi> most valiantly re<g ref="char:EOLhyphen"/>deem the Kings <hi>Standard-Royal,</hi> lost at <hi>Edg-hill,</hi> for which <hi>his Majesty</hi> thought fit to make him a Knight <hi>Banneret,</hi> and I think the only person that received that great honour, during all the War? Was not Mr. <hi>Giffard, Huddleson, Whitgrave,</hi> and the <hi>Pendrels</hi> all Catholicks, who so faithfully Conceal'd, and happily Preserv'd our gracious King after the unfortunate battel of <hi>Worcester?</hi>
+               <note place="margin">See the Book cal<g ref="char:EOLhyphen"/>led <hi>Bosco<g ref="char:EOLhyphen"/>bel.</hi>
+               </note> Was not <hi>Col. Carlos</hi> a Catholick, who secur'd Him in the so much memoriz'd <hi>Royal Oak?</hi>
+            </p>
+            <p>Did not the <hi>Rump,</hi> and what ever else started up in Power, still persecute the <hi>Catholicks,</hi> giving them in all Proscriptions, and Proclamations of Banishment, the first place above other Cava<g ref="char:EOLhyphen"/>liers, as being in their Judgment the greatest and most engrained Royalists?</p>
+            <p>We defy the world (pardon us if we speak so earnestly, who are injur'd so extremely) to shew any <hi>Catholick</hi> that ever bought one foot of the Crown Lands, or had the least hand in shedding the sa<g ref="char:EOLhyphen"/>cred blood, an Act, not to be thought on without horrour, nor men<g ref="char:EOLhyphen"/>tion'd without detestation: But on the Contrary, it has pleased God to make use of some of us as Instruments of serving his Majesty a<g ref="char:EOLhyphen"/>broad, and preserving Him at home; wherein, as we are oblig'd to bless and adore the Divine Providence, that both chose us out to this great Duty, and gave us Grace to perform it: so we are bound in all humblest thankfullness, to acknowledge for ever the eminent favour done us by his Ma esty, in Condescending so graciously, and so often to remember &amp; declare the Fidelity of his Servants; a Fidelity, to which both Honour &amp; Conscience absolutely engage us; Let <hi>Cesar</hi> have His Due, be He of what Religion he pleases.</p>
+            <p>If <hi>Catholicks</hi> were the Kings enemies, as is pretended, either his Majesty himself, or his Counsellors must know it, or at least it must be known to the late States-men under <hi>Cromwel,</hi> and the Rump; for 'tis impossible a business of that concern should escape both those, who had so many Friends and great Intelli<g ref="char:EOLhyphen"/>gence, and yet be only known to this <hi>Grand-Jury.</hi> But we are so confident of our Innocence that we do in all humbleness appeal to his <hi>sacred Majesty himself,</hi> and to both His, and His Royal Fa<g ref="char:EOLhyphen"/>thers
+<pb n="7" facs="tcp:97037:4"/>Counsellors, whether in all the discoveries of Treacheries against Him, or his Royal Father, here or abroad, ever any con<g ref="char:EOLhyphen"/>stant English Catholick was found in any kind accessary to the least of them?</p>
+            <p>And we boldly challenge all the remnant of <hi>Cromwels</hi> faction, and the Rumpers, to discover, if they can, any Person of quality of our number, that ever concurr'd with them in any Plot, Design, or Action; against his Majesty, either to Dethrone Him, or set up Them,</p>
+            <p>In the late Kings Prosperity, the Catholicks were accused of being his Enemies: and yet in his Adversity (the proper Test of true Allegiance) they were found among his faithfullest Sub<g ref="char:EOLhyphen"/>jects. When Monarchy was subverted, and new Governments crept in, then they were charg'd with a contrary Crime, of being Friends to the King, and Enemies to the <hi>Common-wealth</hi> (for<g ref="char:EOLhyphen"/>sooth) and <hi>Protector.</hi> Now again, when our rightful Soveraign is establish'd in his Throne, our Caluminators change their Note, and say, we are the Kings Enemies, and Favorers of the <hi>Phana<g ref="char:EOLhyphen"/>ticks;</hi> So that according to those men, <hi>Whoever becomes Master, We must still be Traytors; and whence soever the Wind blows, We must not only change like Weather-Cocks, but still turn our Faces to the Storm.</hi> What man in his right Senses, can believe such gross Calumnies, so Groundlesse, so full of Contradiction?</p>
+            <p>A like Calumny was not long since industriously spread abroad? <hi>That many Quakers, and Tub-Preachers, among the Sectaries, were disguised Priests, or Jesuits;</hi> which is known to be a manifest un<g ref="char:EOLhyphen"/>truth by all understanding men; since such wicked Dissimulation is clearly against the Principles of our Religion, Damnable in it self, and by no Power on Earth (upon whatsoever pretence) Dispensable; nor could any of those pretended disguised Preach<g ref="char:EOLhyphen"/>ers, after so many years, ever be detected. Let the <hi>Grand-Jury</hi> Indite them (which I heartily wish, as a great happinesse to know and avoid such Caterpillers) and of every one they prove guilty, let them by my consent take his Estate, and life too for their pains; what would they more?</p>
+            <p>But whoever is acquainted with Antiquity, will find our Accu<g ref="char:EOLhyphen"/>sers in these Points, imitate the Old Heathens, who imputed all the unlucky mischievous Accidents that happen'd among them<g ref="char:EOLhyphen"/>selves, to the Primitive Christians. Thus when <hi>Nero</hi> burnt <hi>Rome,</hi> not daring, or being asham'd to own it, he impos'd the guilt of it
+<pb n="8" facs="tcp:97037:5"/>upon the Innocent Christians, and punish'd them severely for his own Crime.</p>
+            <p>And now, <hi>You Gent. of the Jury!</hi> I hope I have sufficiently proy'd, that you request you neither know <hi>what,</hi> nor <hi>why;</hi> but, driven on with a purblind zeal, demand no less than the Estates, the Liberties, and even the Lives of a sort of People, who never were <hi>Pernicious enemies</hi> to any true Subjects, nor <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nderminers of their Religion,</hi> but have ever been Petitioners only for an enjoy<g ref="char:EOLhyphen"/>ment of their own in Peace and Privacy, and who have heartily concurr'd (with those of you who have endeavour'd) to prevent the late Infelicities of the Royal Family, to serve It, in Its greatest distresses, and restore It to Its present happinesse; which God Al<g ref="char:EOLhyphen"/>mighty long continue here in a Prosperous Peace, and Crown hereafter with a Glorious Eternity.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>AS the</hi> Grand Jury <hi>were pleased to make this their severe</hi> Presentment, <hi>for Execution of the many Penal Laws against</hi> Recusants, <hi>all which were made on occasions far different from the Circumstances wherein we now are; I hope they will not be of<g ref="char:EOLhyphen"/>fended, if Another propose to Them, some few Desires out of the holy Scripture, which contain nothing but eternal and unchangable Truths; since surely we should in Charity think, they are more in<g ref="char:EOLhyphen"/>clin'd to guide their</hi> Verdict <hi>by the Bible, than by the Statute-book.</hi>
+            </p>
+         </div>
+         <epigraph>
+            <q>
+               <bibl>2 Tim. 2.24, 25.</bibl>The Servant of our Lord must not strive, but be gentle to all men, apt to teach, forbearing, in meekness instructing those who are contrary minded, if God peradventure will give them Repentance, to the ac<g ref="char:EOLhyphen"/>knowledging of the Truth.</q>
+            <q>
+               <bibl>Rom. 14.</bibl> Who art thou that judgest anothers Servant? to his own Master he stands or falls, yea he shall stand, for God is able to make him stand.— Hast thou Faith? have it to thy self, before God.— Let us therefore no more judge one another, but use our Judgment rather in this, that you put not a stumbling-block, or sca<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al to your brother.</q>
+            <q>
+               <bibl>1 Cor. 7.17.</bibl>As God has called every one, so let him walk, and so ordain I in all Churches.</q>
+            <q>
+               <bibl>Luke 9.56.</bibl>You know not of what spirit you are, the Son of man came not to de<g ref="char:EOLhyphen"/>stroy mens Lives but to save them.</q>
+         </epigraph>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
